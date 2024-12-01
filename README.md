@@ -36,7 +36,7 @@ This project is a simple CRUD API for a blog application. It includes functional
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/simple-crud-api-blog.git
+    git clone https://github.com/badiwidya/simple-crud-api-blog.git
     ```
 2. Navigate to the project directory:
     ```sh
